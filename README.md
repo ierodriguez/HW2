@@ -1,3 +1,2 @@
 # HW2
-![Alt text](/relative/path/to/hw2website.png?raw=true "Website Image")
-
+![website image](http://hw2website.png)
